@@ -113,8 +113,8 @@ header img {
 
 .iphone {
   position: relative;
-  max-width: 744px;
-  max-height: 396px;
+  max-height: 744px;
+  max-width: 396px;
   padding-bottom: 0%;
 }
 
@@ -142,7 +142,7 @@ header img {
   padding: 0.75em;
   color: #ddd;
   border: 0;
-  background-color: #FD872D; 
+  background-color: #FD872D;
   font-family: "HelveticaNeue-CondensedBold", "Arial Narrow", Arial, sans-serif;
   font-weight: bold;
   font-size: 1.25em;
@@ -171,52 +171,52 @@ footer {
   body {
     font-size: 16px;
   }
-  
+
   #container {
     max-width: 64em;
   }
-  
+
   #main {
     position: relative;
     width: 55%;
     margin-left:45%;
     min-height: 47em;
   }
-  
+
   #main h1 {
     font-size: 3.25em;
     width: 90%;
     margin-bottom: 0.5em;
   }
-  
+
   .valueprop {
     font-size: 1.25em;
     color: rgb(241,241,241);
   }
-  
+
   aside {
     width: 75%;
     margin-left: -83%;
     position: absolute;
     top: 0em;
   }
-  
+
   .iphone img {
     max-width: 100%;
   }
-  
+
   .iphone {
     width: 100%;
     height: 100%;
   }
-  
+
   header h1 {
     line-height: 1.375;
   }
-  
+
   header h2 {
     margin: -0.7em 0 0;
-    font-size: 1.25rem;    
+    font-size: 1.25rem;
   }
 }
 
